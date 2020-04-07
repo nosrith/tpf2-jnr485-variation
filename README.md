@@ -10,14 +10,16 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2049101874
 How to generate texture variations
 ---------------------------------------------------------------
 
-1. Right-click on the Powershell script `rename.ps1` and select "Run with PowerShell", 
+1. Download this package as a zip from the green button right above.
+
+2. Right-click on the Powershell script `rename.ps1` and select "Run with PowerShell", 
   and then enter a variation name and your name.
   This script rewrite file/folder name and content with the entered content.
 
-2. Edit the texture files in the folder below with painting software.
+3. Edit the texture files in the folder below with painting software.
   - `yourname_jnr_485_varname_1/res/textures/model/vehicle/train/jnr_485/varname`
 
-3. After editing, copy the folder `yourname_jnr_485_varname_1` to TpF2's mod folder.
+4. After editing, copy the folder `yourname_jnr_485_varname_1` to TpF2's mod folder.
 
 Now you can use the MOD you created in the game.
 
@@ -45,15 +47,17 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2049101874
 テクスチャバリエーションMODの作成・使用方法
 ---------------------------------------------------------------
 
-1. `rename.ps1` を右クリック→「PowerShellで実行」でスクリプトを実行し、
+1. 右上のダウンロードボタンから、このツールをzipでダウンロードしてください。
+
+2. `rename.ps1` を右クリック→「PowerShellで実行」でスクリプトを実行し、
   バリエーション名と作成者名を入力してください。
   ファイル・フォルダ名と内容が入力された内容で書き換えられます。
 
-2. `yourname_jnr_485_varname_1/res/textures/model/vehicle/train/jnr_485/varname` の下にある
+3. `yourname_jnr_485_varname_1/res/textures/model/vehicle/train/jnr_485/varname` の下にある
   テクスチャ画像ファイルをペイントソフトで編集してください。
   （名前は1.で一部変わっています）
 
-3. 編集が終わったら、`yourname_jnr_485_varname_1` フォルダをTpF2のmodフォルダの下にコピーしてください。
+4. 編集が終わったら、`yourname_jnr_485_varname_1` フォルダをTpF2のmodフォルダの下にコピーしてください。
 
 以上で、作成したMODがゲーム内で使用できます。
 
