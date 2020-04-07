@@ -1,0 +1,11 @@
+﻿local moha484200 = require "jnr_485.moha484200"
+
+function data()
+	return moha484200.data {
+		name = "JNR MoHa484",
+		description = "",
+		material = "vehicle/train/jnr_485/varname/moha484200.mtl",
+		surface = "vehicle/train/jnr_485/varname/surface.mtl",
+		group = "vehicle/train/jnr_485/varname/group.mdl",
+	}
+end

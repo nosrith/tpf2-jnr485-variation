@@ -1,0 +1,11 @@
+﻿local kuha481000 = require "jnr_485.kuha481000"
+
+function data()
+	return kuha481000.data {
+		name = "JNR KuHa481 bonnet model",
+		description = "",
+		material = "vehicle/train/jnr_485/varname/kuha481000.mtl",
+		surface = "vehicle/train/jnr_485/varname/surface.mtl",
+		group = "vehicle/train/jnr_485/varname/group.mdl",
+	}
+end

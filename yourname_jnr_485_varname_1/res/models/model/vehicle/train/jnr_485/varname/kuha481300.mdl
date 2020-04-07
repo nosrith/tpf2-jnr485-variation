@@ -1,0 +1,11 @@
+﻿local kuha481300 = require "jnr_485.kuha481300"
+
+function data()
+	return kuha481300.data {
+		name = "JNR KuHa481 late model",
+		description = "",
+		material = "vehicle/train/jnr_485/varname/kuha481300.mtl",
+		surface = "vehicle/train/jnr_485/varname/surface.mtl",
+		group = "vehicle/train/jnr_485/varname/group.mdl",
+	}
+end

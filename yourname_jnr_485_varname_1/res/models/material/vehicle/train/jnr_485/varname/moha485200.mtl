@@ -1,0 +1,81 @@
+﻿function data()
+return {
+	order = 0,
+	params = {
+		albedo_scale = {
+			albedoScale = { 1, 1, 1, },
+		},
+		color_blend = {
+			albedoScales = { 0, },
+			colors = {
+				{ 0, 0, 0, },
+			},
+		},
+		dirt_rust = {
+			age = 0,
+			dirtColor = { 0.13725490868092, 0.13725490868092, 0.1176470592618, },
+			dirtOpacity = 0.23000000417233,
+			dirtScale = 15,
+			rustColor = { 0.35294118523598, 0.17254902422428, 0.094117648899555, },
+			rustOpacity = 0.5,
+			rustScale = 2.8760426044464,
+		},
+		fade_out_range = {
+			fadeOutEndDist = 20000,
+			fadeOutStartDist = 10000,
+		},
+		map_albedo = {
+			fileName = "model/vehicle/train/jnr_485/varname/moha484200_albedo.tga",
+			type = "TWOD",
+			wrapS = "REPEAT",
+			wrapT = "REPEAT",
+		},
+		map_cblend_dirt_rust = {
+			fileName = "model/vehicle/train/jnr_485/cdr.dds",
+			type = "TWOD",
+		},
+		map_dirt = {
+			fileName = "",
+			type = "TWOD",
+		},
+		map_dirt_normal = {
+			fileName = "",
+			redGreen = true,
+			type = "TWOD",
+		},
+		map_metal_gloss_ao = {
+			fileName = "model/vehicle/train/jnr_485/moha484200_mga.dds",
+			type = "TWOD",
+			wrapS = "REPEAT",
+			wrapT = "REPEAT",
+		},
+		map_normal = {
+			fileName = "model/vehicle/train/jnr_485/moha484200_normal.dds",
+			redGreen = true,
+			type = "TWOD",
+		},
+		map_rust = {
+			fileName = "",
+			type = "TWOD",
+		},
+		map_rust_normal = {
+			fileName = "",
+			redGreen = true,
+			type = "TWOD",
+		},
+		normal_scale = {
+			normalScale = 1,
+		},
+		polygon_offset = {
+			factor = 0,
+			forceDepthWrite = false,
+			units = 0,
+		},
+		two_sided = {
+			flipNormal = true,
+			twoSided = false,
+		},
+	},
+	type = "PHYSICAL_NRML_MAP_CBLEND_DIRT",
+}
+end

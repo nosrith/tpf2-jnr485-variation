@@ -1,0 +1,13 @@
+﻿local kuha481000 = require "jnr_485.kuha481000"
+
+function data()
+	local data = kuha481000.data {
+		name = "JNR 485 Variation Name",
+		description = "",
+		material = "vehicle/train/jnr_485/varname/kuha481000.mtl",
+		surface = "vehicle/train/jnr_485/varname/surface.mtl",
+		group = "vehicle/train/jnr_485/varname/group.mdl",
+	}
+	data.metadata.transportVehicle.multipleUnitOnly = true
+	return data
+end
