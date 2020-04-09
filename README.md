@@ -1,13 +1,13 @@
-JNR 485 series texture variation generator
+Texture customizing tool for TpF2 JNR 485 MOD
 ===============================================================
 
-This tool generates a new MOD package to replace textures of JNR 485 series MOD in TransportFever2.
+This tool generates a new MOD package to customize textures of JNR 485 series MOD in TransportFever2.
 
 Original MOD:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2049101874
 
 
-How to generate texture variations
+How to customize textures
 ---------------------------------------------------------------
 
 1. Download this package as a zip from the green button right above.
@@ -34,7 +34,7 @@ Caution
 
 
 
-国鉄485系 テクスチャバリエーションMOD作成ツール
+国鉄485系 カスタムテクスチャMOD作成キット
 ===============================================================
 
 このツールは、TransportFever2 国鉄485系 MOD のテクスチャを差し替えて新しいMODパッケージを作成します。
@@ -44,7 +44,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2049101874
 
 
 
-テクスチャバリエーションMODの作成・使用方法
+カスタムテクスチャMODの作成・使用方法
 ---------------------------------------------------------------
 
 1. 右上のダウンロードボタンから、このツールをzipでダウンロードしてください。
